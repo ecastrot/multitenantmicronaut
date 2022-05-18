@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.loggro.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, hibernate-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, maven, netty-server, oracle, readme, shade, testcontainers, yaml]
